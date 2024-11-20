@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj",
       "projectName": "F1.Database.Domain",
-      "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj",
+      "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj",
       "packagesPath": "C:\\Users\\AlexFeetham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\obj\\",
+      "outputPath": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F1.Database.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

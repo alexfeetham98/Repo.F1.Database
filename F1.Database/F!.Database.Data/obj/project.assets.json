@@ -4038,11 +4038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F!.Database.Data\\F1.Database.Data.csproj",
+      "projectUniqueName": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F!.Database.Data\\F1.Database.Data.csproj",
       "projectName": "F1.Database.Data",
-      "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F!.Database.Data\\F1.Database.Data.csproj",
+      "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F!.Database.Data\\F1.Database.Data.csproj",
       "packagesPath": "C:\\Users\\AlexFeetham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F!.Database.Data\\obj\\",
+      "outputPath": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F!.Database.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4064,8 +4064,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj": {
-              "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj"
+            "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj": {
+              "projectPath": "C:\\Users\\AlexFeetham\\source\\repos\\Repo.F1.Database\\F1.Database\\F1.Database.Domain\\F1.Database.Domain.csproj"
             }
           }
         }

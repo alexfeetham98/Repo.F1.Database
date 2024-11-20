@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\F!.Database.Data",
+    "\\F1.Database.Data",
+    "\\F1.Database.Domain",
+    "\\F1.Database.Executable",
+    "\\F1.Database.Worker"
+  ],
+  "SelectedNode": "\\F1.Database.Executable\\AppContext.cs",
+  "PreviewInSolutionExplorer": false
+}

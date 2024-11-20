@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http.Headers;
 using System.Text;
 using F_.Database.Data.Repository;
 using F1.Database.Data;
@@ -133,6 +134,35 @@ namespace F1.Database.Executable
             redbull.TeamPersonnel.Add(rbP4);
             redbull.TeamPersonnel.Add(rbP5);
             redbull.TeamPersonnel.Add(rbP6);
+
+            #endregion
+
+            #region AstonMartin
+
+            Team aston = new Team("Aston Martin Aramco F1 Team");
+            teams.Add(aston);
+            aston.Address = new Address("Aston Martin Formula One Team", "Dadford Rd", "Silverstone", "Northamptonshire", "NN12 8TJ", "UK");
+
+            Driver amD1 = new Driver("Fernando", "Alonso", "Driver", 14);
+            Driver amD2 = new Driver("Lance", "Stroll", "Driver", 18);
+            aston.TeamPersonnel.Add(amD1);
+            aston.TeamPersonnel.Add(amD2);
+
+            Car amC1 = new Car("AMR24", Engines.Mercedes, amD1);
+            Car amC2 = new Car("AMR24", Engines.Mercedes, amD2);
+            aston.Cars.Add(amC1);
+            aston.Cars.Add(amC2);
+
+            Personnel amP1 = new Personnel("Mike", "Krack", "Team Principle");
+            Personnel amP2 = new Personnel("Bernadette", "Collins", "Head Strategist");
+            Personnel amP3 = new Personnel("Dan", "Fallows", "Technical Director");
+            Personnel amP4 = new Personnel("Chris", "Cronin", "Race Engineer");
+            Personnel amP5 = new Personnel("Ben", "Michell", "Race Engineer");
+            aston.TeamPersonnel.Add(amP1);
+            aston.TeamPersonnel.Add(amP2);
+            aston.TeamPersonnel.Add(amP3);
+            aston.TeamPersonnel.Add(amP4);
+            aston.TeamPersonnel.Add(amP5);
 
             #endregion
 
