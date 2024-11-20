@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D81C0D1-5568-4D1D-87B6-29F4E567B7AE}|F1.Database.Executable\\F1.Database.Executable.csproj|c:\\users\\alexfeetham\\source\\repos\\f1.database\\f1.database.executable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D81C0D1-5568-4D1D-87B6-29F4E567B7AE}|F1.Database.Executable\\F1.Database.Executable.csproj|solutionrelative:f1.database.executable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|c:\\users\\alexfeetham\\source\\repos\\f1.database\\f1.database.domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|solutionrelative:f1.database.domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|c:\\users\\alexfeetham\\source\\repos\\f1.database\\f1.database.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|solutionrelative:f1.database.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|c:\\users\\alexfeetham\\source\\repos\\f1.database\\f1.database.domain\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|solutionrelative:f1.database.domain\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|c:\\users\\alexfeetham\\source\\repos\\f1.database\\f1.database.domain\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A369AA0F-5D23-400D-8C12-D2325703C4ED}|F1.Database.Domain\\F1.Database.Domain.csproj|solutionrelative:f1.database.domain\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Executable\\Program.cs",
+              "RelativeDocumentMoniker": "F1.Database.Executable\\Program.cs",
+              "ToolTip": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Executable\\Program.cs",
+              "RelativeToolTip": "F1.Database.Executable\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwIgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:40:20.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Team.cs",
+              "RelativeDocumentMoniker": "F1.Database.Domain\\Team.cs",
+              "ToolTip": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Team.cs",
+              "RelativeToolTip": "F1.Database.Domain\\Team.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:54:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Personnel.cs",
+              "RelativeDocumentMoniker": "F1.Database.Domain\\Personnel.cs",
+              "ToolTip": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Personnel.cs",
+              "RelativeToolTip": "F1.Database.Domain\\Personnel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:54:15.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Driver.cs",
+              "RelativeDocumentMoniker": "F1.Database.Domain\\Driver.cs",
+              "ToolTip": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Driver.cs",
+              "RelativeToolTip": "F1.Database.Domain\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:54:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Car.cs",
+              "RelativeDocumentMoniker": "F1.Database.Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\AlexFeetham\\source\\repos\\F1.Database\\F1.Database.Domain\\Car.cs",
+              "RelativeToolTip": "F1.Database.Domain\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:35:05.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
